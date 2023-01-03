@@ -3,7 +3,7 @@
 
 - 👨‍💻 En el Bootcamp Henry, he aprendido diversas tecnologias donde se destacan: **HTML, CSS, Javascript, React, Redux, Node JS, Express, Sequelize y PostgreSQL.**
 
-- 🌱 Actualmente me encuentro en constante aprendizaje sobre las últimas tendencias en tecnologías web, tales como: **Pyhton, Java, Oracle, entre otros.**
+- 🌱 Actualmente me encuentro en constante aprendizaje sobre las últimas tendencias en tecnologías web, tales como: **Phyton, Java, Oracle, entre otros.**
 
 <h3 align="left">¡Si te interesa saber más sobre mí, no dudes en contactarme!</h3>
 <p align="left">
