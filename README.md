@@ -7,7 +7,7 @@
 
 <h3 align="left">¡Si te interesa saber más sobre mí, no dudes en contactarme!</h3>
 <p align="left">
-<a href="https://linkedin.com/in/cinthia-maldonado-rafael-902233211" target="blank"><img align="center" src="https://www.svgrepo.com/show/303172/linkedin-logo.svg" alt="cinthia-maldonado-rafael-902233211" height="50" width="50" /></a>
+<a href="https://www.linkedin.com/in/cinthia-maldonado-rafael/" target="blank"><img align="center" src="https://www.svgrepo.com/show/303172/linkedin-logo.svg" alt="cinthia-maldonado-rafael-902233211" height="50" width="50" /></a>
 <a href=mailto:"cinthia.maldonado@upch.pe" target="blank"><img align="center" src="https://www.svgrepo.com/show/424662/email-newsletter-subscription.svg" alt="cinthia-maldonado-rafael-902233211" height="30" width="40" /></a>
 </p>
 
